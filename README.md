@@ -271,7 +271,3 @@ do run.do
 - QuestaSim simulation flow with coverage database generation and waveform debug
 
 ---
-
-## Author
-
-Digital Verification Diploma — under the supervision of **Eng. Kareem Wassem**.
